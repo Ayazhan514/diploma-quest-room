@@ -29,4 +29,4 @@
 ![Activity](docs/diagrams/03-activity.png)
 
 ### 4. Sequence: Квест-бөлмені онлайн брондау
-<!-- ![Sequence](docs/diagrams/04-sequence.png) -->
+ ![Sequence](docs/diagrams/04-sequence.png)
