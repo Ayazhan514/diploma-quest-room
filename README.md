@@ -23,7 +23,7 @@
 ![Use Case](docs/diagrams/01-usecase.png)
 
 ### 2. Class
-<!-- ![Class](docs/diagrams/02-class.png) -->
+![Class](docs/diagrams/02-class.png)
 
 ### 3. Activity: Квест-бөлмені онлайн брондау
 ![Activity](docs/diagrams/03-activity.png)
